@@ -1,8 +1,8 @@
 {
-    "name": "tslib",
+    "name": "@msteams/tslib",
     "author": "Microsoft Corp.",
     "homepage": "https://www.typescriptlang.org/",
-    "version": "2.4.1",
+    "version": "4.9.4",
     "license": "0BSD",
     "description": "Runtime library for TypeScript helper functions",
     "keywords": [
