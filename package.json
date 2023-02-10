@@ -1,8 +1,8 @@
 {
-    "name": "@msteams/tslib",
+    "name": "@msteams/tslib-next",
     "author": "Microsoft Corp.",
     "homepage": "https://www.typescriptlang.org/",
-    "version": "4.9.4",
+    "version": "2.1.1",
     "license": "0BSD",
     "description": "Runtime library for TypeScript helper functions",
     "keywords": [
